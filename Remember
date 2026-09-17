@@ -1,0 +1,17 @@
+* Commit
+    saves snapshot of your changes ONLY ON YOUR LOCAL PC
+    DOES NOT UPDATE GITHUB
+    use this frequently while coding to SAVE PROGRESS LOCALLY w/o interrupting teammates
+
+* Commit Amend
+    overwrites VERY LAST LOCAL COMMIT instead of creating new save point
+    use for minor errors like typo and want to clean up history
+
+* Commit & push
+    save locally and to github repo
+    use when done with task and want code safely backed up in cloud 
+    DO IF READY FOR OTHERS TO SEE
+
+* Commit & sync
+    saves locally, pulls down any new changes in github then pushes your changes up
+    use when working closely on shared branch

@@ -1,0 +1,45 @@
+This is a text file to test committing, pulling, pushing, requesting files in github repo
+
+EACH TIME YOU DO THESE EXECUTIONS, YOU WILL BE PROMPTED TO SIGN IN
+
+Setting up a repo
+Shift + CMD + P to go to command palette or just simple use Clone Repository btn in Src Ctrl View
+This will copy the created repo in Github and will transfer the files to your local IDE
+
+While editing file, you can @username editors and they can be tagged
+
+Test @jvperegrino
+
+User will appear when you hover over the tagged user
+
+================
+This is similar hover for #---mentioned issue numbers
+
+================
+User suggestions are triggered by typing @ and 
+issue suggestions are triggered by typing #
+
+Issues appear in suggestion can be config in Github Issues: queries setting
+
+================
+To control which file types will show, use settings Github Issues: ignore completion trigger
+and github issues: ignore user completion trigger
+
+This file takes language to specify file types to be ignored
+
+===============
+PULL RQST
+
+from pull rqsts(github cat icon, left navbar) can view, mng, create pull rqsts
+queries used to display pull rqsts can be config w github pul rqsts: queries
+USE GITHUB SEARCH SYNTAX:
+"githubPullRequests.queries":[
+    {
+        "label":"assigned to me",
+        "query":"is:open assignee:${user}"
+    }
+]
+
+CREATING PULL RQSTS
+Once committed changes to your fork or branch, can use github pull rqsts: create pull request command
+or the create pull request btn in pull rqsts view to create pull request
