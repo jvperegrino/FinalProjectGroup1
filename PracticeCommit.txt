@@ -12,8 +12,12 @@ After committing after first paragraph, added second, committed, DID NOT REFLECT
 After entering 3rd paragraph 
 Commit ammend need to merge 2 files: the updated and the previous file version
 to merge, cna view commands via command log or prompt
-to merge, need add filenameThatNeedsToBeMerged.txt 
+to merge, need to git add filenameThatNeedsToBeMerged.txt 
 then git merge --no-ff
 then commit again
 then updates will be reflected on repo
+
+I entered the first paragaph This will be my practice committ
+Once committed, that is the only thing that reflects on my repo
+After committing after first paragraph, added second, committed, DID NOT REFLECT on repo
 
