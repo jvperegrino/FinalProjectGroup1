@@ -10,3 +10,8 @@ What do you think will happen?
 Nice, so even if you did commit & push once already
 once you pushed it again, its just like ammending 
 Merging the old version with the new one
+
+SO far, I havent encountered any errors with committing and pushing
+BUT STILL BE CAREFUL! YOU might still push the code 
+and you might disregard the updated code written by your teammate
+Good thing with github is that since this is a cloud based version control system 
