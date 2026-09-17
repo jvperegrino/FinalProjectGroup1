@@ -20,4 +20,5 @@ then updates will be reflected on repo
 =================
 Enough of ammending
 To ammend is to merge new version with old version to update repo reflect
-
+So, to ammend properly, just merge the latest update you have made in your local IDE
+To do that, directly do git merge --no-ff right away then just continue
