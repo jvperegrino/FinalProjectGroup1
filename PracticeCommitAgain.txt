@@ -1,7 +1,14 @@
 This time, I will be doing commit & sync
 As usual, this wont work without putting a message
 I'll try doing commit & sync again
+
 No errors again
-So just keep in mind, this is kind of like commit & ammend
+So just keep in mind, this is kind of like commit & amend
 SOOO their difference is that commit & ammend only modifies local project
 while this commit & sync shares local project history with a remote server
+
+to correct any typo in your message do this:
+git commit --amend -m "Your new corrected commit message here"
+then you will still need to merge the old version with the new one
+but dont worry, the message you will type on the message box will only be reflected locally
+the message you enter on -m "message" will be the one reflected on your repo
