@@ -15,3 +15,5 @@ SO far, I havent encountered any errors with committing and pushing
 BUT STILL BE CAREFUL! YOU might still push the code 
 and you might disregard the updated code written by your teammate
 Good thing with github is that since this is a cloud based version control system 
+
+AND MAKE SURE YOU ADD A MESSAGE FIRST BEFORE DOING COMMIT & PUSH!!
