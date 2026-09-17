@@ -7,3 +7,6 @@ it is for the sake of repo history
 If I saved and still did commit & push for this file
 What do you think will happen?
 
+Nice, so even if you did commit & push once already
+once you pushed it again, its just like ammending 
+Merging the old version with the new one
