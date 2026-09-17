@@ -21,4 +21,4 @@ then updates will be reflected on repo
 Enough of ammending
 To ammend is to merge new version you edited with old version to update repo reflect
 So, to ammend properly, just click commit & ammend, then merge the latest update you have made in your local IDE
-To do that, directly do git merge --no-ff right away then just continue
+To do that, directly do git merge --no-ff right away on your terminal then just continue
