@@ -1,0 +1,6 @@
+This will be my practice Commit
+
+As seen from steps, once committed, can be saved locally
+Once saved, IDE will ask if want to sync
+If yes, THIS file uploads to repo 
+Before Uploading to repo, can enter message
