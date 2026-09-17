@@ -1,2 +1,9 @@
 This file needs to be committed first... or should it?
 This is a practice for commit & push
+TAKE NOTE: when doing commit & push
+YOU CANNOT COMMIT & PUSH WITHOUT PROVIDING message
+So to do commit & push, need to provide message first
+it is for the sake of repo history
+If I saved and still did commit & push for this file
+What do you think will happen?
+
