@@ -1,10 +1,19 @@
 This will be my practice Commit
 
-As seen from steps, once committed, can be saved locally
-Once saved, IDE will ask if want to sync
+As seen from steps, once committed, file be saved locally
+Once saved, IDE will ask if want to sync (to github repo)
 If yes, THIS file uploads to repo 
 Before Uploading to repo, can enter message
 
-I entered the first paragaph This will be my practice committ
-Once committed, that is the only thing that reflects on my repo
-After committing after first paragraph, added second, committed, DID NOT REFLECT on repo
+I entered the first paragaph This will be my practice commit
+Once committed, that is the only thing that reflects on my repo in this file
+After committing after first paragraph, added second, committed, DID NOT REFLECT on repo// did not update contents and message
+
+After entering 3rd paragraph 
+Commit ammend need to merge 2 files: the updated and the previous file version
+to merge, cna view commands via command log or prompt
+to merge, need add filenameThatNeedsToBeMerged.txt 
+then git merge --no-ff
+then commit again
+then updates will be reflected on repo
+
